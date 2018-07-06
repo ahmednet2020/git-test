@@ -1,1 +1,2 @@
 this is first sass file
+we done fixes style
